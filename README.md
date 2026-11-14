@@ -100,12 +100,7 @@ I'm interested in exploring the following areas:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kavya-83175&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kavya-83175&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kavya-83175&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavya-83175&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 
