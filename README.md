@@ -105,9 +105,6 @@ I'm interested in exploring the following areas:
 
 
 
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in connecting with people who love technology, programming, and innovation!
