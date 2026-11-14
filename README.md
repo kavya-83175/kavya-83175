@@ -99,7 +99,14 @@ I'm interested in exploring the following areas:
 
 ## 📊 GitHub Statistics
 
-\<!-- Replace kavya-83175 with your actual GitHub username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavya-83175&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 
 
