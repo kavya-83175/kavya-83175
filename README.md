@@ -99,7 +99,7 @@ I'm interested in exploring the following areas:
 
 ## 📊 GitHub Statistics
 
-\<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+\<!-- Replace kavya-83175 with your actual GitHub username -->
 
 
 
